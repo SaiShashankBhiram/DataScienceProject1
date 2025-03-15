@@ -11,11 +11,11 @@
 ## Workflows
 ## In components folder we are using it for query the logger details
 
-1. Update config.yaml - DI/DV/DT
+1. Update config.yaml - DI/DV/DT/MT
 2. Update schema.yaml - DV
-3. Update params.yaml - DV
-4. Update the entity - DI/DT
-5. Update the configuration manager in src config - DI/DT
-6. Update the components - DI/DT
-7. Update the pipeline - DI/DT
-8. Update the main.py - DI/DT
+3. Update params.yaml - MT
+4. Update the entity - DI/DT/MT
+5. Update the configuration manager in src config - DI/DT/MT
+6. Update the components - DI/DT/MT
+7. Update the pipeline - DI/DT/MT
+8. Update the main.py - DI/DT/MT
