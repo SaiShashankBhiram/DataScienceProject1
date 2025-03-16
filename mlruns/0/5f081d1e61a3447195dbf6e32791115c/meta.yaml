@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/DataScienceProject1/mlruns/0/5f081d1e61a3447195dbf6e32791115c/artifacts
+end_time: 1742133551076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f081d1e61a3447195dbf6e32791115c
+run_name: mercurial-moth-490
+run_uuid: 5f081d1e61a3447195dbf6e32791115c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742133551002
+status: 4
+tags: []
+user_id: saish
